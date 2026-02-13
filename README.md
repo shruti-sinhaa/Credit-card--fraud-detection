@@ -73,7 +73,7 @@ Analyzed class imbalance
 - Recall is a critical metric in fraud detection systems
 - Proper preprocessing and evaluation are crucial for real-world ML problems
 
-🚀 Future Improvements
+# 🚀 Future Improvements
 - Implement real-time fraud detection pipeline
 - Experiment with advanced models (XGBoost, Neural Networks)
 - Add cost-sensitive learning
@@ -83,7 +83,7 @@ Analyzed class imbalance
 # Clone the repository  
 git clone https://github.com/shruti-sinhaa/Credit-card--fraud-detection.git
 
-# About
+# 👩‍💻 About
 💼 LinkedIn: [Shruti Sinha](www.linkedin.com/in/shruti-sinha24)
 
 Let’s connect professionally and grow your data career 💡 Thanks for checking out the project! Your support means a lot — feel free to star ⭐ this repo or share it with someone learning SQL.🚀
