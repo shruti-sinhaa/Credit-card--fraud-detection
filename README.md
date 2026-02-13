@@ -30,6 +30,7 @@ Target variable:
 - Class = 0 → Legitimate
 
 ⚙️ Technologies & Tools Used
+
 -Programming Language: Python
 -Libraries: Pandas, NumPy – data handling
 - scikit-learn – model building & evaluation
@@ -37,15 +38,14 @@ Target variable:
 
 Visualization: Matplotlib / Seaborn
 🔄 Project Workflow
-1️⃣ Data Preprocessing
 
+1️⃣ Data Preprocessing
 - Checked for missing and duplicate values
 - Feature scaling for better model performance
 
 Analyzed class imbalance
 
 2️⃣ Handling Imbalanced Data
-
 - Applied SMOTE (Synthetic Minority Oversampling Technique)
 - Balanced minority (fraud) and majority (non-fraud) classes to improve model learning
 
