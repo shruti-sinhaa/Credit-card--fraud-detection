@@ -37,6 +37,7 @@ Target variable:
 - imbalanced-learn (SMOTE) – handling class imbalance
 
 Visualization: Matplotlib / Seaborn
+
 🔄 Project Workflow
 
 1️⃣ Data Preprocessing
