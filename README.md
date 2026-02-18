@@ -1,35 +1,35 @@
 # Credit-card--fraud-detection
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project focuses on building a machine learning–based fraud detection system to identify fraudulent credit card transactions.
 The goal is to handle highly imbalanced data, improve fraud recall, and minimize false negatives while maintaining strong overall performance.
 
 The model analyzes transaction patterns and predicts whether a transaction is fraudulent or legitimate, helping financial institutions reduce losses and improve security.
 
-🧠 Problem Statement
+# 🧠 Problem Statement
 
 Credit card fraud datasets are highly imbalanced, where fraudulent transactions represent a very small percentage of total transactions.
 Traditional models often achieve high accuracy but fail to detect fraud effectively.
 
-Challenges addressed:
+# Challenges addressed:
 - Severe class imbalance
 - Low recall for fraud cases
 - Need for reliable evaluation metrics beyond accuracy
 
-📂 Dataset
+# 📂 Dataset
 
 - Publicly available credit card transaction dataset
 - Contains anonymized numerical features
 - Highly imbalanced class distribution:
 - Legitimate transactions ≫ Fraudulent transactions
 
-Target variable:
+# Target variable:
 
 - Class = 1 → Fraud
 - Class = 0 → Legitimate
 
-⚙️ Technologies & Tools Used
+# ⚙️ Technologies & Tools Used
 
 -Programming Language: Python
 -Libraries: Pandas, NumPy – data handling
@@ -38,31 +38,31 @@ Target variable:
 
 Visualization: Matplotlib / Seaborn
 
-🔄 Project Workflow
+# 🔄 Project Workflow
 
-1️⃣ Data Preprocessing
+# 1️⃣ Data Preprocessing
 - Checked for missing and duplicate values
 - Feature scaling for better model performance
 
 Analyzed class imbalance
 
-2️⃣ Handling Imbalanced Data
+# 2️⃣ Handling Imbalanced Data
 - Applied SMOTE (Synthetic Minority Oversampling Technique)
 - Balanced minority (fraud) and majority (non-fraud) classes to improve model learning
 
-3️⃣ Model Training
+# 3️⃣ Model Training
 - Trained and evaluated multiple machine learning models such as:
 - Logistic Regression
 - Random Forest / other classifiers (if applicable)
 
-4️⃣ Model Evaluation
+# 4️⃣ Model Evaluation
 - Used metrics suitable for imbalanced datasets:
 -Precision
 - Recall
 - F1-Score
 - ROC-AUC Score
 
-📊 Results & Performance
+# 📊 Results & Performance
 - Achieved high ROC-AUC score (~0.97) indicating strong classification ability
 - Improved recall for fraudulent transactions, reducing false negatives
 - Balanced trade-off between precision and recall using SMOTE
