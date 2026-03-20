@@ -63,7 +63,7 @@ Analyzed class imbalance
 - ROC-AUC Score
 
 # 📊 Results & Performance
-- Achieved high ROC-AUC score (~0.97) indicating strong classification ability
+- Achieved high ROC-AUC score (~0.985) indicating strong classification ability
 - Improved recall for fraudulent transactions, reducing false negatives
 - Balanced trade-off between precision and recall using SMOTE
 - Accuracy was not used as the primary metric due to class imbalance.
