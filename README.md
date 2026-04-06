@@ -81,7 +81,7 @@ Analyzed class imbalance
 -Integrate transaction streaming data
 
 # Clone the repository  
-git clone
+Git Clone 
 ```bash https://github.com/shruti-sinhaa/Credit-card--fraud-detection.git
 ```
 
